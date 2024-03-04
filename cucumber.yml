@@ -1,0 +1,2 @@
+demo:  --format html TEST_PARAM="Insde demo profile" --out report.html
+default: --format html TEST_PARAM="default profile" --out report.html
