@@ -4,7 +4,7 @@ Feature: Calculator
     Given the calculator app is open
     When user clicks on a number "9"
     Then user should see the number in output field
-
+  @basic
   Scenario: User opens calculator app and does addition operation
     Given the calculator app is open
     When user clicks on a number "4"
